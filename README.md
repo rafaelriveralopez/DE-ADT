@@ -6,11 +6,11 @@ The best decision tree in the final population is refined replacing some leaf no
 
 - - -
 
-The DE-ADT-SPV method is based on the Differential Evolution algorithm implemented for the JMetal library (http://jmetal.github.io/jMetal/)
+The DE-ADT-SPV method is implemented in Java languaje, and it uses the Differential Evolution code provided by the JMetal library (http://jmetal.github.io/jMetal/). 
 
-Reference:
+For referring to this method, please use:
 
-R. Rivera-Lopez and J. Canul-Reich: Construction of near-optimal axis-parallel decision trees using a  differential-evolution-based approach. To appear in IEEE Access (2017)
+R. Rivera-Lopez and J. Canul-Reich: *Construction of near-optimal axis-parallel decision trees using a  differential-evolution-based approach*. To appear in IEEE Access (2017)
 
 - - -
 
