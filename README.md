@@ -16,10 +16,6 @@ For suggestions and comments, please send an email to: rrivera@itver.edu.mx
 
 - - -
 
-This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. Since the project is still under development, so it is recommended to check your updates on this site.
-
-- - -
-
 The DE-ADT-SPV.zip contains the DEADT_SPV.jar file and the libraries used to run the method.
 
 The SourceCode.zip contains the main source files implementing the method:
@@ -61,6 +57,8 @@ where the options are:
     echo=<true|false> Activate or desactivate the output in the console (default is true)
     log=<true|false> Activate or desactivate the creation of a file with the results (default is true)
 
+- - - 
+
 Examples:
 
 To apply the method without decision tree refinement using the iris dataset, with 10 repetitions of the 10-fold CV procedure:
@@ -71,3 +69,6 @@ To apply the method with decision tree refinement using the glass dataset, with 
  
     java -jar DEADT_SPV.jar file=glass test=2 cv=5
     
+- - -
+
+This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. Since the project is still under development, so it is recommended to check your updates on this site.
