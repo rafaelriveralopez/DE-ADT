@@ -14,9 +14,9 @@ R. Rivera-Lopez and J. Canul-Reich: Construction of near-optimal axis-parallel d
 
 - - -
 
-The DE-ADT-SPV.zip constaints the DEADT_SPV.jar file and the libraries used to run the method.
+The DE-ADT-SPV.zip contains the DEADT_SPV.jar file and the libraries used to run the method.
 
-The deadtspv.zip containts the main source files implementing the method:
+The deadtspv.zip contains the main source files implementing the method:
 
 1. ConfigurationAP.java: The definition of the main elements of the DE-ADT-SPV method.
 2. DEADT.java: The main class to run the DE-ADT-SPV method.
@@ -30,7 +30,7 @@ For run the method in the console:
 where the options are: 
 
     file=<arff_filename> (default is "iris")
-    directory=<directory name>
+    directory=<directory name> (default is the directory in which the jar file is placed)
 
     trials=<number of trials of the method> (default is 1)
     test=<1|2> (1=to apply the method without decision tree refinement, 2=to apply the method with decision tree. Default is 1)  
