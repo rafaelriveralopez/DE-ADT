@@ -1,13 +1,23 @@
-# DE-ADT-SPV
-## Differential evolution for inducing axis-parallel decision trees
+# DE-ADT-SPV method
+## A Differential evolution based method for inducing axis-parallel decision trees
 
 The DE-ADT-SPV method is a differential-evolution-based approach implementing a global search strategy to find a near-optimal axis-parallel decision tree is introduced. In this approach, the internal nodes of a decision tree are encoded in a real-valued chromosome, and a population of them evolves using the training accuracy of each one as its fitness value.  The height of a complete binary decision tree whose number of internal nodes is not less than the number of attributes in the training set is used to compute the chromosome size, and a procedure to map a feasible axis-parallel decision tree from one chromosome is applied, which uses both the smallest-position-value rule and the training instances.  
 The best decision tree in the final population is refined replacing some leaf nodes with sub-trees to improve its accuracy.
+
 - - -
+
+The DE-ADT-SPV method is based on the Differential Evolution algorithm implemented for the JMetal library (http://jmetal.github.io/jMetal/)
 
 Reference:
 
 R. Rivera-Lopez and J. Canul-Reich: Construction of near-optimal axis-parallel decision trees using a differential-evolution-based approach. To appear in IEEE Access (2017)
+
+- - -
+
+The deadtspv.zip containt the main files implementing the method:
+
+1. ConfigurationAP.java: The definition of the main elements of the DE-ADT-SPV method.
+2. DEADT.java: The main class to run the DE-ADT-SPV method.
 
 - - -
 
