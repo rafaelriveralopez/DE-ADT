@@ -16,6 +16,10 @@ For suggestions and comments, please send an email to: rrivera@itver.edu.mx
 
 - - -
 
+This code is shared without any guarantee, the project is still under development, so it is recommended to check your updates on this site.
+
+- - -
+
 The DE-ADT-SPV.zip contains the DEADT_SPV.jar file and the libraries used to run the method.
 
 The SourceCode.zip contains the main source files implementing the method:
