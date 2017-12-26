@@ -16,7 +16,7 @@ For suggestions and comments, please send an email to: rrivera@itver.edu.mx
 
 - - -
 
-This code is shared without any guarantee, the project is still under development, so it is recommended to check your updates on this site.
+This code is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. Since the project is still under development, so it is recommended to check your updates on this site.
 
 - - -
 
