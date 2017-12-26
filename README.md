@@ -30,7 +30,7 @@ For run the method in the console:
 where the options are: 
 
     file=<arff_filename> (default is "iris")
-    directory=<directory name> (default is the directory in which the jar file is placed)
+    directory=<directory name> (default is the directory in which the jar file is located)
 
     trials=<number of trials of the method> (default is 1)
     test=<1|2> (1=to apply the method without decision tree refinement, 2=to apply the method with decision tree. Default is 1)  
