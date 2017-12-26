@@ -16,7 +16,7 @@ R. Rivera-Lopez and J. Canul-Reich: *Construction of near-optimal axis-parallel 
 
 The DE-ADT-SPV.zip contains the DEADT_SPV.jar file and the libraries used to run the method.
 
-The deadtspv.zip contains the main source files implementing the method:
+The SourceCode.zip contains the main source files implementing the method:
 
 1. ConfigurationAP.java: The definition of the main elements of the DE-ADT-SPV method.
 2. DEADT.java: The main class to run the DE-ADT-SPV method.
