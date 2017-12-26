@@ -10,7 +10,7 @@ The DE-ADT-SPV method is based on the Differential Evolution algorithm implement
 
 Reference:
 
-R. Rivera-Lopez and J. Canul-Reich: Construction of near-optimal axis-parallel decision trees using a differential-evolution-based approach. To appear in IEEE Access (2017)
+R. Rivera-Lopez and J. Canul-Reich: Construction of near-optimal axis-parallel decision trees using a  differential-evolution-based approach. To appear in IEEE Access (2017)
 
 - - -
 
