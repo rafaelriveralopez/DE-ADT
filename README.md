@@ -12,6 +12,8 @@ For referring to this method, please use:
 
 R. Rivera-Lopez and J. Canul-Reich: *Construction of near-optimal axis-parallel decision trees using a  differential-evolution-based approach*. To appear in IEEE Access (2017)
 
+For suggestions and comments, please send an email to: rrivera@itver.edu.mx
+
 - - -
 
 The DE-ADT-SPV.zip contains the DEADT_SPV.jar file and the libraries used to run the method.
